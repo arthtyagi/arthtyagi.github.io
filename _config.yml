@@ -5,7 +5,7 @@ url                          : "https://arthtyagi.github.io" # the base hostname
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Arth Tyagi | Developer, stuck in the computer.
+  title                      : Arth Tyagi || India
   description                  : >
                                Founder, CEO @ArisVeam. 17 year old trying to figure life out, not a profound statement just a reality. Stuck in the computer all day long by choice :)
 
@@ -32,7 +32,7 @@ author:
   twitter                   : arthtyagi
   github                    : arthtyagi
   youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
+  stackoverflow             : https://stackoverflow.com/users/10451970/arth-tyagi
   disqus                    : arthtyagi-github-io # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
