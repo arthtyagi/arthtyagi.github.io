@@ -5,13 +5,13 @@ url                          : "https://arthtyagi.github.io" # the base hostname
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Arth Tyagi
   description                  : >
-                               this should contain a proper description
+                               Founder, CEO @ArisVeam. 17 year old trying to figure life out, not a profound statement just a reality.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  search_path                : "arthtyagi.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
