@@ -7,7 +7,7 @@ url                          : "https://arthtyagi.github.io" # the base hostname
 blog:
   title                      : Arth Tyagi ~ workin' is chillin'?
   description                  : >
-                               Founder, CEO @ArisVeam. 17 year old trying to figure life out, not a profound statement just a reality. Stuck in the computer all day long by choice :)
+                               Founder, CEO @ArisVeam. life is just a profound reality. Stuck in the computer all day long by choice :)
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -31,8 +31,8 @@ author:
   mail                      : ceo@arisveam.com # change to your e-mail address
   twitter                   : arthtyagi
   github                    : arthtyagi
-  youtube                   : youtube-user-name
-  stackoverflow             : https://stackoverflow.com/users/10451970/arth-tyagi
+  youtube                   : UC3fMDVzGHFx0xuTBVdmbjbw
+  stackoverflow             : 10451970/
   disqus                    : arthtyagi-github-io # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
