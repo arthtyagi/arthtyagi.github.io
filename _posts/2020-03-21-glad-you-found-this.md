@@ -16,11 +16,10 @@ So, that's pretty neat you somehow found this. Probably, it was through a link f
 #### What do I do? 
 One of the major stuff that I do is actually coding!
 
-~~~ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+~~~python
+def bruh(name)
+  print ("Hi #{name}! ")
+bruh("Arth")
+#=> prints 'Hi Arth!' to STDOUT.
 ~~~
 
