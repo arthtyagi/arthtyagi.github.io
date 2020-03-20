@@ -17,8 +17,8 @@ So, that's pretty neat you somehow found this. Probably, it was through a link f
 One of the major stuff that I do is actually coding!
 
 ~~~python
-def bruh(name)
-  print ("Hi #{name}! ")
+def bruh(name):
+  print ("Hi, " + name + "!")
 bruh("Arth")
 #=> prints 'Hi Arth!' to STDOUT.
 ~~~
