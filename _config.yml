@@ -5,9 +5,10 @@ url                          : "https://arthtyagi.github.io" # the base hostname
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Arth Tyagi ~ workin' is chillin'?
+  title                      : Arth Tyagi | don't roll and fume, code.
   description                  : >
-                               Founder, CEO @ArisVeam. life is just a profound reality. Stuck in the computer all day long by choice :)
+                               Founder, CEO @ArisVeam. life is just a profound reality. Stuck in the computer all day long by choice.
+                               I don't roll and fume, I code. Don't know about the former, but pretty sure that I'm gonna keep at the latter.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
