@@ -18,8 +18,23 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+## So who am I?
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+17 year old Founder and CEO @[ArisVeam](https://arisveam.com)
+Full-Stack Django developer, working on projects harnessing Machine Learning. 
+My latest venture is Upgree, a social media marketing platform set to change the course of influencing. Gonna take some time though cause I'm working solo on it and I got highschool too so...yeah but that's something I'll be working on for long time. As of now, I've prepared an executive summary, pitch deck, a whole business plan and an unfinished MVP.
+
+Have done some fun stuff too ( unless you're too cool for it already ), read more about it in my blogs :)
+I started out ~~working~~ experimenting with Machine Learning in November 2018 and in May 2019 finally made enough progress to start building simple products. Over the months, I built android applications, stock simulators and similar applications. Some of them are open-source. You can check my Github featured projects for it, the others (unfeatured ones) are just learning projects basically.
+
+I've got ambitions, some rational to the general public, some not. Mostly talking about tech or music if you catch a ride with me. I witnessed the COVID-19 breakdown of planet Earth, that's something already if one were to look back at history 15 years from now. On Twitter like a nocturnal creature cause I go on tweet sprees at 3am so there's that. 
+Quirky shit aside, I'm a programmer. Started learning to code when I was 11, wrote my first line of code at 6 though, a LOGO program, the one with the turtle if you get what I mean. I started taking it seriously when I was 14, I got a little into ethical hacking, learnt spoofing, phishing and other social engineering techniques but a lot has happened since then.
+
+This website is mostly for speaking my brain out to those who are willing to give it a read without me caring about what you might think of it ( not much atleast ) cause this seemed fun to me. For professional stuff or queries, I suggest that you drop a mail to me or head over to my [Linkedin](https://linkedin.com/in/arthtyagi). 
+
+I'll probably write a blog post for this website to answer some general queries you might have about me or maybe it'll just be a little more detailed about me. But till then, if you don't know me already, I suggest you look me up on Google, go to those links in the header and yeah check my startup out. :))
+
+P.S. I'll also recommend music on here. It's mostly Psychedelic Rock, Indie Rock, Alt-Rock and Metal ( Metallica, Pink Floyd, The Rolling Stones, Arctic Monkeys, Tame Impala and Queen ) but it's not like I don't listen to Hip-Hop/Rap, huge Eminem fan so yeah lol.
+
 
 </div>
