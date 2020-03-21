@@ -2,8 +2,8 @@
 layout: post
 title:  "Glad you found this :P!"
 tags:
-  - dactl
-  - jekyll
+  - firstpost
+  - python
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true
