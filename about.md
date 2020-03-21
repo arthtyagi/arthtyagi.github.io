@@ -20,7 +20,7 @@ published: true
 
 ## So who am I?
 
-17 year old Founder and CEO @[ArisVeam](https://arisveam.com)
+17 year old Founder and CEO **@[ArisVeam](https://arisveam.com)**{: style="color: red; opacity: 0.80;" }
 Full-Stack Django developer, working on projects harnessing Machine Learning. 
 My latest venture is Upgree, a social media marketing platform set to change the course of influencing. Gonna take some time though cause I'm working solo on it and I got highschool too so...yeah but that's something I'll be working on for long time. As of now, I've prepared an executive summary, pitch deck, a whole business plan and an unfinished MVP.
 
@@ -30,7 +30,7 @@ I started out ~~working~~ experimenting with Machine Learning in November 2018 a
 I've got ambitions, some rational to the general public, some not. Mostly talking about tech or music if you catch a ride with me. I witnessed the COVID-19 breakdown of planet Earth, that's something already if one were to look back at history 15 years from now. On Twitter like a nocturnal creature cause I go on tweet sprees at 3am so there's that. 
 Quirky shit aside, I'm a programmer. Started learning to code when I was 11, wrote my first line of code at 6 though, a LOGO program, the one with the turtle if you get what I mean. I started taking it seriously when I was 14, I got a little into ethical hacking, learnt spoofing, phishing and other social engineering techniques but a lot has happened since then.
 
-This website is mostly for speaking my brain out to those who are willing to give it a read without me caring about what you might think of it ( not much atleast ) cause this seemed fun to me. For professional stuff or queries, I suggest that you drop a mail to me or head over to my [Linkedin](https://linkedin.com/in/arthtyagi). 
+This website is mostly for speaking my brain out to those who are willing to give it a read without me caring about what you might think of it ( not much atleast ) cause this seemed fun to me. For professional stuff or queries, I suggest that you drop a mail to me or head over to my **[Linkedin](https://linkedin.com/in/arthtyagi)**
 
 I'll probably write a blog post for this website to answer some general queries you might have about me or maybe it'll just be a little more detailed about me. But till then, if you don't know me already, I suggest you look me up on Google, go to those links in the header and yeah check my startup out. :))
 
