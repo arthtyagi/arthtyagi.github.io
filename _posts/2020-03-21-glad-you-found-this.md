@@ -14,7 +14,7 @@ So, that's pretty neat you somehow found this. Probably, it was through a link f
 <!–-break-–>
 
 ## What do I do? 
-One of the major stuff that I do is actually coding! I'm a full stack Django dev working with TensorFlow. Writing a new blog post on some of the general stuff I do or have done in the past regarding mainly tech so **[About](https://arthtyagi.github.io/about)** might give a gist of it.
+One of the major stuff that I do is actually coding! I'm a full stack Django dev working with TensorFlow. Writing a new blog post on some of the general stuff I do or have done in the past regarding mainly tech so **[About](https://arthtyagi.github.io/about)**{: style="color: blue; opacity: 0.80;" } might give a gist of it.
 
 ~~~python
 
