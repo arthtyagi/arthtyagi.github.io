@@ -22,7 +22,9 @@ published: true
 
 17 year old Founder and CEO **@[ArisVeam](https://arisveam.com)**{: style="color: blue; opacity: 0.80;" }.
 Full-Stack Django developer, working on projects harnessing Machine Learning. 
-My latest venture is Upgree, a social media marketing platform set to change the course of influencing. Gonna take some time though cause I'm working solo on it and I got highschool too so...yeah but that's something I'll be working on for long time. As of now, I've prepared an executive summary, pitch deck, a whole business plan and an unfinished MVP.
+My latest venture is Upgree, a social media marketing platform set to change the course of influencing. Gonna take some time though cause I'm working solo on it and I got highschool too so...yeah but that's something I'll be working on for a long time. As of now, I've prepared an executive summary, pitch deck, a whole business plan and an unfinished MVP.
+
+Update 2nd April : Now I'm working on a second project, it's more interesting and way more likely to be finished by me sooner than this, plus it's something I'll be able to distribute more easily to people so yeah, idk. it seems a little more fun, I'll just post an update when it's done.
 
 Have done some fun stuff too ( unless you're too cool for it already ), read more about it in my blogs :)
 I started out ~~working~~ experimenting with Machine Learning in November 2018 and in May 2019 finally made enough progress to start building simple products. Over the months, I built android applications, stock simulators and similar applications. Some of them are open-source. You can check my Github featured projects for it, the others (unfeatured ones) are just learning projects basically.
