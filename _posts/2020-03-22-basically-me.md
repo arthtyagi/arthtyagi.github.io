@@ -29,16 +29,14 @@ I was influenced to the point that me and my friend decided to build our own Fac
 
 <div class="page" markdown="1">
 <img src="https://observer.com/wp-content/uploads/sites/2/2020/01/elon-musk-twitter-advice.jpg?quality=80" />
-</div>
-Anyone who knows me personally knows pretty well that I'm an Elon fanboy so there's that. He has influenced me way more than anyone to be honest, I researched a LOT on him, I basically studied him when I was 15. Ik that sounds nutty but it's not, it's real lol. The way he has made an entire empire for himself is worthy of appreciation, he started as South African boy who used to get bullied to one of the most ( probably the most ) influential and disrupting figures of the 21st century.
+</div> Anyone who knows me personally knows pretty well that I'm an Elon fanboy so there's that. He has influenced me way more than anyone to be honest, I researched a LOT on him, I basically studied him when I was 15. Ik that sounds nutty but it's not, it's real lol. The way he has made an entire empire for himself is worthy of appreciation, he started as South African boy who used to get bullied to one of the most ( probably the most ) influential and disrupting figures of the 21st century.
 
 Some of the other influences include Steve Jobs whom I admire for his marketing skills, the way he just did things was simply articulate and eloquent. And then there's George Hotz, the first person to ever unlock the iPhone who's now working on self driving cars.
 
 Music is also a pretty important aspect of our lives I suppose and well the books we read or maybe the stuff we watch.
 <div class="page" markdown="1">
 <img src= "/uploads/music.png" />
-</div>
-Pink Floyd, Arctic Monkeys, Eminem and Queen just seem to be pleasing to both my spirit and my ear. I do listen to Travis too, the beats are pretty sick.
+</div> Pink Floyd, Arctic Monkeys, Eminem and Queen just seem to be pleasing to both my spirit and my ear. I do listen to Travis too, the beats are pretty sick.
 
 Recently I made an AI music generator using dense networks so yeah, music is pretty great lol.
 
