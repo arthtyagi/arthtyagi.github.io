@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basically me :P!"
+title: "Data Structures and Algorithms for adavancing to other domains"
 tags:
   - technology
   - coding
