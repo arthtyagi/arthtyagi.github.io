@@ -12,7 +12,8 @@ published: true
 ---
 
 This blog post is essentially an extended "About" section with some more context on what I actually do and why I do that so that should be interesting? Or maybe not if you're not into that stuff and still stumbled upon this. Either way, I'll continue. The good thing about writing on my own website is, I just whatever the f comes to mind cause duh idc who's reading this. Also, it's mostly stuff I just write without pauses or second thoughts, plain verbose thinking through magnificent words ( nah, not really magnificent tho, for magnificent writing xD you should probably check out my other articles and blog posts on Hackernoon and shit ).
-
+{: .lead}
+<!–-break-–>
 Coding is not a child's play but in a way it is, it constitutes a lot of factors. Anyway, I'll just be honest here and now that I think of it, I would rather start by telling you about who and what I got influenced from. This basically includes all the stuff that has impacted me, btw I'll do a post on ArchLinux and probably how COVID-19 is probably a catastrophe all over the world I actually witnessed and how brutally it has affected all of us except you already know that so I'd do something regarding what I'm doing during that time cause well yeah, I started a new project, I'm pretty sure that I'd be able to build the MVP of this all by myself, will use Django for the Backend and hack the frontend using Bootstrap but that's not the point here, this post was about talking about my influences, right? So yeah, we'll do that. Woah this gives me an idea of doing a weird FAQ thing for myself no one really asked for but that'd be fun too and with a lot of time on my hands as of now ( which I'm trying to spend mostly on my projects, brainstorming, doing studies a bit and well yeah staying on my screen watching some shit on YouTube, I try not to though ), it's a real possibility that I might end up doing that or not. Hopefully, not.
 <div class="page" markdown="1">
 <img src="https://i.ytimg.com/vi/8IAGH6k17nw/maxresdefault.jpg" />
@@ -56,7 +57,5 @@ My technology stack is pretty varied actually :
 
 That's pretty much it for this one, will update on the project and probably blog something once in a while. Kind of like talking to myself except not really.
 
-{: .lead}
-<!–-break-–>
 
 

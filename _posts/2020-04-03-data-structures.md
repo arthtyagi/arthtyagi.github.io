@@ -15,6 +15,9 @@ __this is my article from Medium that is also about to be published on Analytics
 
 Well so, this blog post is what the title suggests. Exactly. I’ll be summarizing all the Data Structures and Algorithms you should be knowing before you move on to domains like competitive programming on a relatively large scale like Google Codejam, doing web development, building Python ( or any other language ) projects like games, utilities, projects implying your knowledge of that language or moving onto Machine Learning since I have the first-hand experience in doing all of the above-mentioned tasks and that started with learning the foundations of programming. I agree web development can be done without being great at data structures and algorithms and instead focusing on troubleshooting, writing tight code that implements the functionalities or just simply hacking your way to complete the project but it’s always a good idea to be good at the core foundations of programming before advancing to other domains of CS.
 
+{: .lead}
+<!–-break-–>
+
 At the bare minimum, you need to be aware of the following Data Structures. I’ll be summarizing each of them with some Python code, and links to resources where you can learn more about them.
 
 **Note: I won’t exactly be canvassing over to the details of these Data Structures since this blog post is mainly directed towards achieving the understanding of what to learn about initially before moving on to the other domains along with the resources I used to learn them. This in no way, is a tutorial or explanation of these Data Structures.**
@@ -160,3 +163,5 @@ With pure legitimacy, I hope this blog post helped you in some way, maybe to get
 The next blog post would probably be on “My first-time experience with Arch Linux”.
 
 Stay tuned.
+
+**[My Medium Profile](https://medium.com/@arthtyagi)**{: style="color: blue; opacity: 0.80;" }
