@@ -6,7 +6,7 @@ tags:
   - music
   - projects
   - covid-19
-hero: https://unsplash.com/collections/1131562/
+hero: https://pbs.twimg.com/profile_images/1245674490295513089/G73L4CD6_400x400.jpg
 overlay: blue
 published: true
 ---
@@ -59,4 +59,4 @@ That's pretty much it for this one, will update on the project and probably blog
 {: .lead}
 <!–-break-–>
 
-##  
+
