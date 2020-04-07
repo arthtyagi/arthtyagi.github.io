@@ -1,4 +1,4 @@
-# dactl
+# arthtyagi.github.io
 ![light theme](uploads/screenshot_desktop_light.jpg)
 ![dark theme](uploads/screenshot_desktop_dark.jpg)
 
