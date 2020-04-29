@@ -10,6 +10,7 @@ Main features:
 * Responsive design
 
 Jekyll-specific features:
+
 * Pagination (default: 5 posts per page)
 * Fully compatible with Jekyll 3.x and GitHub Pages
 * SEO optimized
@@ -17,7 +18,9 @@ Jekyll-specific features:
 * [Disqus](https://disqus.com/) comments support
 * Syntax highlighter using [Rouge](https://github.com/jneen/rouge) with numbered code lines
 
+
 Other features:
+
 * Archive page
 * About page
 * Tags functionality and tags pages
