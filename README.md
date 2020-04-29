@@ -60,6 +60,7 @@ Options include:
 * Show post titles only (Blog)
 
 ## Additional information about some features
+
 ### Hero images and blog layout
 Liquid 'script' which is used to append correct hero image and overlay color as set in post YAML Front matter was written by me and while it's really basic it functions properly.  
 You can read more about it and see the code in `include/utils/hero.html`.
