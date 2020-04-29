@@ -29,13 +29,8 @@ Other features:
 Some of the features listed above can be easily configured or disabled by you.
 
 ## Information about dactl
-At it's core, dactl is a forked version of [daktilo](https://github.com/kronik3r/daktilo) but it has been almost entirely rewritten from scratch.  
-I have just started my journey in the world of web development, learning new things on the way.  
-Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it's going to be a good learning experience since I don't like building 'dummy' projects.  
-I've built this theme as a way to develop my skills further.
 
-You can find credits at the bottom of this Readme file.  
-**All** feedback is welcome, both positive and negative.
+At it's core, dactl is a forked version of [daktilo](https://github.com/kronik3r/daktilo) but it has been almost entirely rewritten from scratch.  
 
 ## Installation
 ### Running locally
