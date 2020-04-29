@@ -1,8 +1,7 @@
 # arthtyagi.github.io
 
-
-
 Main features:
+
 * Customizable blog layout - choose how your posts will be displayed
 * Light/Dark live theme switcher
 * Inline footnotes using [Barefoot](https://github.com/philgruneich/barefoot)
