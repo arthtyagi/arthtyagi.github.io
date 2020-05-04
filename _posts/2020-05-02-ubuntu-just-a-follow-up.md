@@ -6,7 +6,7 @@ tags:
   - update
   - short
 hero: https://images.freeimages.com/images/large-previews/31a/hand-on-keyboard-1243602.jpg
-overlay: green
+overlay: gray
 published: true
 
 ---
