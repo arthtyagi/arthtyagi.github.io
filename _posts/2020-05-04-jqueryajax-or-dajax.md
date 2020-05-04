@@ -6,7 +6,7 @@ tags:
   - python
   - ajax
   - webdev
-hero: https://images.freeimages.com/images/large-previews/31a/hand-on-keyboard-1243602.jpg
+hero: https://cdn.educba.com/academy/wp-content/uploads/2019/10/jQuery-Ajax-Methods.png
 overlay: red
 published: true
 
