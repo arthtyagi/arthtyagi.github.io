@@ -23,6 +23,6 @@ Using django-dajaxice as communication core, Dajax implements an abstraction lay
 With Dajax you can modify your DOM structure directly from Python.
 
 In all, if you are yearning for less JS code in your codebase, you should be trying out dajax, it's a really good third party library for using JQuery's Ajax in a Django back-end. Albeit, what matters is that the end client experience would be better when you are using either Ajax or Dajax.
-**[My Medium Profile](https://medium.com/@arthtyagi)**{: style="color: green; opacity: 0.80;" }
+**[My Medium Profile](https://medium.com/@arthtyagi)**{: style="color: green; opacity: 0.80;"}
 **[My Twitter](https://twitter.com/arthtyagi)**{: style="color: blue; opacity: 0.80;" }
-**[My Github](https://twitter.com/arthtyagi)**{: style="color: blue; opacity: 0.80;" }
+**[My Github](https://twitter.com/arthtyagi)**{: style="color: blue; opacity: 0.80;"}
