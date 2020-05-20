@@ -38,6 +38,8 @@ I'll probably write a blog post for this website to answer some general queries 
 
 P.S. I'll also recommend music on here. It's mostly Psychedelic Rock, Indie Rock, Alt-Rock and Metal ( Metallica, Pink Floyd, The Rolling Stones, Arctic Monkeys, Tame Impala and Queen ) but it's not like I don't listen to Hip-Hop/Rap, huge Eminem fan so yeah lol.
 
+My tech stack <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/2d2b30a5399ea4a43a06490a25c1af"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" href="https://twitter.com/arthtyagi?ref_src=twsrc%5Etfw">Tweets by arthtyagi</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

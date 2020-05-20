@@ -15,6 +15,9 @@ This blog post is essentially an extended "About" section with some more context
 {: .lead}
 <!–-break-–>
 Coding is not a child's play but in a way it is, it constitutes a lot of factors. Anyway, I'll just be honest here and now that I think of it, I would rather start by telling you about who and what I got influenced from. This basically includes all the stuff that has impacted me, btw I'll do a post on ArchLinux and probably how COVID-19 is probably a catastrophe all over the world I actually witnessed and how brutally it has affected all of us except you already know that so I'd do something regarding what I'm doing during that time cause well yeah, I started a new project, I'm pretty sure that I'd be able to build the MVP of this all by myself, will use Django for the Backend and hack the frontend using Bootstrap but that's not the point here, this post was about talking about my influences, right? So yeah, we'll do that. Woah this gives me an idea of doing a weird FAQ thing for myself no one really asked for but that'd be fun too and with a lot of time on my hands as of now ( which I'm trying to spend mostly on my projects, brainstorming, doing studies a bit and well yeah staying on my screen watching some shit on YouTube, I try not to though ), it's a real possibility that I might end up doing that or not. Hopefully, not.
+
+Also, this is my tech stack <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/2d2b30a5399ea4a43a06490a25c1af"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 <div class="page" markdown="1">
 <img src="https://i.ytimg.com/vi/8IAGH6k17nw/maxresdefault.jpg" />
 </div>
