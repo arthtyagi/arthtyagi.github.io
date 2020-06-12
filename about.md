@@ -35,7 +35,7 @@ Gonna be setting up an Onion version of this website soon for the Dark Web cause
 
 That's pretty much to it, and this is my tech stack. Last updated in April I guess, Idr tbh. 
 
-My tech stack <script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+My tech stack <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/2d2b30a5399ea4a43a06490a25c1af"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 Well, you've reached the end :)
 
