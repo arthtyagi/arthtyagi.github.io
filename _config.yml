@@ -1,119 +1,19 @@
-# Base blog settings
-baseurl                      : '' # the subpath of your site,                         # e.g. /blog/
-                              # set to '' in case of hosting on GitHub
-url                          : "https://arthtyagi.github.io" # the base hostname & protocol for your site
-                                  # `http://<username>.github.io` - for GitHub
+# Site settings
+title: Arth Tyagi
+description: 
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-blog:
-  title                      : Arth Tyagi | don't roll and fume, code.
-  description                  : >
-                               Founder, CEO @ArisVeam. life is just a profound reality. Stuck in the computer all day long by choice.
-                               I don't roll and fume, I code. Don't know about the former, but pretty sure that I'm gonna keep at the latter.
+# User settings
+username: Arth Tyagi
+user_description: I like working on stuff that intrigue me. I founded a startup to build open-source ML applications last year. Right now, I am a high school senior, developer, blogger and occasionally composing music for fun. I'm a contributing and voting member of the Python Software Foundation. As of now, I'm working on Tor Project's open-source repositories including Nyx and Stem both of which are written with Python as the core language. I am developing my own Tor Client in Python and also an improved open-source tool similar to Nyx for monitoring Tor connections with a beautiful GUI as a localhost web application. I'm also planning on building an ed-tech platform with Django as the core technology to help people to learn code.
+user_title: Full Stack Developer. ML Hobbyist.
+email: ceo@arisveam.com
+twitter_username: arthtyagi
+github_username:  arthtyagi
 
-# Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : "arthtyagi.github.io"
-                               # needed for searchbox in archive page
-  hero_layout                : true # turn on hero layout for blog and posts
-  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : false # show post titles only on main blog page
+# Google-analytics
+google-analytics:
+  id: ""
 
-# Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
-
-
-# Author info
-author:
-  fullname                  : Arth Tyagi
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : ceo@arisveam.com # change to your e-mail address
-  twitter                   : arthtyagi
-  github                    : arthtyagi
-  youtube                   : UC3fMDVzGHFx0xuTBVdmbjbw
-  stackoverflow             : users/10451970/
-  disqus                    : arthtyagi-github-io # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
-
-
-
-## !!
-## Advanced blog settings
-## You should not change anything here unless you know what you are doing
-
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Permalinks
-permalink                    : posts/:slug
-
-# Posts
-excerpt_separator            : <!–-break-–>
-
-# Pagination
-paginate                     : 5
-paginate_path                : '/page-:num/'
-
-# Tags
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: blog-by-tag
-
-# Handling Reading
-exclude                    : ["README.md", "README.html"]
-
-# https://github.com/jekyll/jekyll/issues/4619
-# Markdown and highlighter settings
-markdown: kramdown
-# !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
-# Since Jekyll 3 the default highlighter is Rouge (replaced Pygments.rb in v44)
-highlighter: rouge
-
-# More › http://kramdown.gettalong.org/quickref.html
-# Options › http://kramdown.gettalong.org/options.html
-kramdown:
-  input:          GFM
-  # https://github.com/jekyll/jekyll/pull/4090
-  syntax_highlighter: rouge
-
-  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
-  # span, block element options fall back to global
-  syntax_highlighter_opts:
-    # Rouge Options › https://github.com/jneen/rouge#full-options
-    # css_class: 'highlight'
-    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-# Sass settings
-sass:
-  sass_dir                : _sass
-  style                   : compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings               : all
-  endings                 : all
-  comments                : ["<!-- ", " -->"]
-  blanklines              : true
-  profile                 : false
-  ignore:
-  envs                    : [local]
+exclude: ['package.json', 'src' , 'node_modules']
