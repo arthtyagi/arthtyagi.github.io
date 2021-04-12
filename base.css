@@ -31,8 +31,6 @@ li {
     --dark-text-color: #ffffff;
     --light-secondary-color: #2e2e2e;
     /* specific uses */
-    --subsecondary-color: #414141;
-    --inverse-color: #101519;
 }
 
 body {
