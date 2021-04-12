@@ -19,21 +19,9 @@ li {
     padding-top: 10px;
 }
 
-.svg {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1226%26quot%3b)' fill='none'%3e%3ccircle r='46.666666666666664' cx='70.03' cy='53.02' stroke='rgba(234%2c 84%2c 42%2c 0.12)' stroke-width='1.32' stroke-dasharray='3%2c 3'%3e%3c/circle%3e%3crect width='250.8' height='250.8' clip-path='url(%26quot%3b%23SvgjsClipPath1227%26quot%3b)' x='1077.81' y='292' fill='url(%23SvgjsPattern1228)' transform='rotate(117.15%2c 1203.21%2c 417.4)'%3e%3c/rect%3e%3cpath d='M987.35 58.72 L948.55 59.010000000000005L989.8456617808513 80.7606617808512z' stroke='rgba(234%2c 84%2c 42%2c 0.12)' stroke-width='1'%3e%3c/path%3e%3crect width='100.8' height='100.8' clip-path='url(%26quot%3b%23SvgjsClipPath1229%26quot%3b)' x='739.27' y='435.31' fill='url(%23SvgjsPattern1230)' transform='rotate(64.68%2c 789.67%2c 485.71)'%3e%3c/rect%3e%3cpath d='M459.98 150.62a5.6 5.6 0 1 0 10.75 3.16 5.6 5.6 0 1 0-10.75-3.16zM475.34 155.13a5.6 5.6 0 1 0 10.74 3.16 5.6 5.6 0 1 0-10.74-3.16zM490.69 159.64a5.6 5.6 0 1 0 10.74 3.16 5.6 5.6 0 1 0-10.74-3.16zM506.04 164.15a5.6 5.6 0 1 0 10.74 3.16 5.6 5.6 0 1 0-10.74-3.16z' fill='rgba(234%2c 84%2c 42%2c 0.12)'%3e%3c/path%3e%3crect width='336' height='336' clip-path='url(%26quot%3b%23SvgjsClipPath1231%26quot%3b)' x='1093.21' y='176.52' fill='url(%23SvgjsPattern1232)' transform='rotate(234.75%2c 1261.21%2c 344.52)'%3e%3c/rect%3e%3ccircle r='78.15868281091825' cx='1330.64' cy='126.22' stroke='rgba(234%2c 84%2c 42%2c 0.12)' stroke-width='2.38' stroke-dasharray='4%2c 4'%3e%3c/circle%3e%3crect width='348' height='348' clip-path='url(%26quot%3b%23SvgjsClipPath1233%26quot%3b)' x='295.47' y='-78.64' fill='url(%23SvgjsPattern1234)' transform='rotate(324.91%2c 469.47%2c 95.36)'%3e%3c/rect%3e%3crect width='70.8' height='70.8' clip-path='url(%26quot%3b%23SvgjsClipPath1235%26quot%3b)' x='1310.7' y='251.78' fill='url(%23SvgjsPattern1236)' transform='rotate(158.16%2c 1346.1%2c 287.18)'%3e%3c/rect%3e%3cpath d='M401.53 285.97 L291.32 279.90999999999997L301.83967074297584 327.5253292570241z' stroke='rgba(234%2c 84%2c 42%2c 0.12)' stroke-width='1' stroke-dasharray='3%2c 2'%3e%3c/path%3e%3crect width='156' height='156' clip-path='url(%26quot%3b%23SvgjsClipPath1237%26quot%3b)' x='1023.29' y='443.81' fill='url(%23SvgjsPattern1238)' transform='rotate(269.19%2c 1101.29%2c 521.81)'%3e%3c/rect%3e%3crect width='109.08' height='109.08' clip-path='url(%26quot%3b%23SvgjsClipPath1239%26quot%3b)' x='998.04' y='59.18' fill='url(%23SvgjsPattern1240)' transform='rotate(137.76%2c 1052.58%2c 113.72)'%3e%3c/rect%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1226'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='8.36' height='8.36' patternUnits='userSpaceOnUse' id='SvgjsPattern1228'%3e%3cpath d='M4.18 1L4.18 7.359999999999999M1 4.18L7.359999999999999 4.18' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none' stroke-width='3.16'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1227'%3e%3ccircle r='62.7' cx='1203.21' cy='417.4'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6.3' height='6.3' patternUnits='userSpaceOnUse' id='SvgjsPattern1230'%3e%3cpath d='M3.15 1L3.15 5.3M1 3.15L5.3 3.15' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1229'%3e%3ccircle r='25.2' cx='789.67' cy='485.71'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='336' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1232'%3e%3crect width='336' height='3' x='0' y='0' fill='rgba(234%2c 84%2c 42%2c 0.12)'%3e%3c/rect%3e%3crect width='336' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1231'%3e%3ccircle r='84' cx='1261.21' cy='344.52'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1234'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1233'%3e%3ccircle r='87' cx='469.47' cy='95.36'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='7.08' height='7.08' patternUnits='userSpaceOnUse' id='SvgjsPattern1236'%3e%3cpath d='M3.54 1L3.54 6.08M1 3.54L6.08 3.54' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none' stroke-width='1.05'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1235'%3e%3ccircle r='17.7' cx='1346.1' cy='287.18'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1238'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1237'%3e%3ccircle r='39' cx='1101.29' cy='521.81'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6.06' height='6.06' patternUnits='userSpaceOnUse' id='SvgjsPattern1240'%3e%3cpath d='M3.03 1L3.03 5.06M1 3.03L5.06 3.03' stroke='rgba(234%2c 84%2c 42%2c 0.12)' fill='none' stroke-width='1.75'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1239'%3e%3ccircle r='27.27' cx='1052.58' cy='113.72'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
-}
-
-.casual {
-    font-family: 'Architects Daughter', cursive;
-}
-
-.ibm {
-    font-family: 'IBM Plex Sans';
-}
-
 :root {
-    --background-color: #fffeeb;
-    --text-color: #000000;
+    --background-color: #1f1f1f;
+    --text-color: #ffffff;
     --button-color: #ea672a;
     --secondary-color: #2e2e2e;
     --heading-bg: #05002e;
@@ -47,13 +35,12 @@ li {
     --inverse-color: #101519;
 }
 
-
 body {
-    font-weight: 600;
-    font-size: 18px;
+    font-weight: 500;
+    font-size: 22px;
     margin-bottom: 2.5rem;
     overflow-y: scroll;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     word-wrap: break-word;
     -webkit-font-smoothing: antialiased;
     color: var(--text-color);
@@ -64,7 +51,7 @@ body {
     margin-right: 2.5%;
 }
 
-h1, h2 {
+h1 {
     color: wheat;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 800;
@@ -72,7 +59,7 @@ h1, h2 {
     word-wrap: break-word;
 }
 
-h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     color: var(--text-color);
     font-family: "IBM Plex Sans", sans-serif;
     font-weight: 700;
