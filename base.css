@@ -45,8 +45,8 @@ body {
     background-color: var(--background-color);
     background-size: 22px 22px;
     background-position: center;
-    margin-left: 2.5%;
-    margin-right: 2.5%;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
 }
 
 h1 {
